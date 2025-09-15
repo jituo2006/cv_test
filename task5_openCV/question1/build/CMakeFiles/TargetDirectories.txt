@@ -1,0 +1,3 @@
+/Users/tuoji/Documents/cv_test/task5_openCV/build/CMakeFiles/red_extractor.dir
+/Users/tuoji/Documents/cv_test/task5_openCV/build/CMakeFiles/edit_cache.dir
+/Users/tuoji/Documents/cv_test/task5_openCV/build/CMakeFiles/rebuild_cache.dir

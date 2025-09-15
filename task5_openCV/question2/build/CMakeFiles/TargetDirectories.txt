@@ -1,0 +1,3 @@
+/Users/tuoji/Documents/cv_test/task5_openCV/question2/build/CMakeFiles/circle_detector.dir
+/Users/tuoji/Documents/cv_test/task5_openCV/question2/build/CMakeFiles/edit_cache.dir
+/Users/tuoji/Documents/cv_test/task5_openCV/question2/build/CMakeFiles/rebuild_cache.dir
